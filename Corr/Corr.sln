@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParser", "..\..\..\..\Desktop\FirebaseClient\LogParser\LogParser.csproj", "{33F51FF4-7348-4583-AABE-55A26B31C6F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DC29E98-1506-4C19-A6D1-8066D71D6C40}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\FirebaseClient\LogParser\corr.txt = ..\..\..\..\Desktop\FirebaseClient\LogParser\corr.txt
+		..\..\..\..\Desktop\FirebaseClient\LogParser\SUAS-INSTRUÇÕES.txt = ..\..\..\..\Desktop\FirebaseClient\LogParser\SUAS-INSTRUÇÕES.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F51FF4-7348-4583-AABE-55A26B31C6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F51FF4-7348-4583-AABE-55A26B31C6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F51FF4-7348-4583-AABE-55A26B31C6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F51FF4-7348-4583-AABE-55A26B31C6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A95295D-399A-4548-9013-152D062B7A63}
+	EndGlobalSection
+EndGlobal
