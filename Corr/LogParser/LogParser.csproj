@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A24F306-227A-49AF-A145-98781BF8810E}</ProjectGuid>
+    <ProjectGuid>{33F51FF4-7348-4583-AABE-55A26B31C6F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Corr</RootNamespace>
-    <AssemblyName>Corr</AssemblyName>
+    <RootNamespace>LogParser</RootNamespace>
+    <AssemblyName>LogParser</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
